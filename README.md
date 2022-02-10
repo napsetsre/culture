@@ -33,6 +33,7 @@ Quantitative metrics are those **objective facts** which provde specific numeric
 2. Persona [Churn Rate](#chrun-rate)
 3. Persona [Recurring Engagement](#recurring-engagement)
 4. Persona [Lifetime Value](#lifetime-value)
+5. Persona [Retention Cost](#retention-cost)
 
 ## Definitions
 
@@ -47,6 +48,9 @@ This metric shows how committed a given persona is to the transfermation.
 
 ### Lifetime Value
 Lifetime Value is the total projected participation a persona will commit during their entire relationship with the transfermation. 
+
+### Retention Cost
+This shows how much effort you are expending on a persona's success to keep them committed and engaged.
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
