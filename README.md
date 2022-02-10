@@ -1,12 +1,11 @@
-# SRE Culture
+# Metrics
+Metrics are measurements commonly used for assessing, comparing, and tracking. 
 
-## Metrics
+## [Qualitative Metrics](./qualitative/README.md)
+Qualitative metrics are those **subjective opinions** formed based on the information at hand.
 
-### [Qualitative Metrics](./metrics/qualitative/README.md)
-**Qualitative metrics** are **subjective opinions** formed based on the information at hand.
-
-### [Qantitative Metrics](./metrics/qualitative/README.md)
-Quantitative metrics are those which can be measured in a specific number providing the precise information in mathematical format. 
+## [Qantitative Metrics](./qualitative/README.md)
+Quantitative metrics are those **objective facts** which provde specific numbers based on the information at hand. 
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
