@@ -28,17 +28,27 @@ Qualitative metrics are subjective **opinions** formed based on the current info
 #### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
 
-##### How To Measure
-1. Calculate the persona's [Health Score](#health-score)
-
-
+##### How To Measure By Persona
+1. Persona [Health Score](#health-score)
+2. Persona [Churn Rate](#chrun-rate)
+3. Persona [Recurring Engagement](#recurring-engagement)
+4. Persona [Lifetime Value](#lifetime-value)
 
 ## Definitions
 
 ### Health Score
-This metric gives you the overall information about the health of a given persona. It takes into account various behavioral aspects along with your pre-defined criteria for what you consider good or bad for a success scorecard.
+Health score gives information about the health of a given persona. Taking into account various behavioral aspects along with pre-defined criteria for what is considered good or bad for success.
 
+### Churn Rate
+It is the rate at which a given persona stops engaging. It is a clear indicator of how effectively you are managing the relationship. 
+
+### Recurring Engagement
+This metric shows how committed a given persona is to the transfermation. 
+
+### Lifetime Value
+Lifetime Value is the total projected participation a persona will commit during their entire relationship with the transfermation. 
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
 [Practical tools for international development](https://tools4dev.org/resources/5-ways-to-measure-qualitative-results/)
+[Customer Success Metrics](https://www.smartkarrot.com/resources/blog/customer-success-metrics/)
