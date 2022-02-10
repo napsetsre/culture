@@ -18,12 +18,14 @@ Measurement Methods identify how data is to be collected to meet goals and objec
 Qualitative metrics are subjective **opinions** formed based on the current information. 
 
 ##### How To Measure
-1. Define success
-1. Choose your method(s)
+1. Persona defined success
+2. Delivery team's method(s) of mesurement
 - Conversations, Discovery, Workshops
 - Pictures, Stories, Tools
 - Pairing, Mobing
 - Logs, Journals, Comments
+3. Persona [Feedback](#feedback)
+4. Persona [Satisfaction](#satisfaction)
 
 #### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
@@ -51,6 +53,12 @@ Lifetime Value is the total projected participation a persona will commit during
 
 ### Retention Cost
 This shows how much effort you are expending on a persona's success to keep them committed and engaged.
+
+### Feedback
+This is the most common metric you would ever receive to measure the health of a persona.
+
+### Satisfaction
+This is another metric where you ask a persona to rate their experience with the transfermation. 
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
