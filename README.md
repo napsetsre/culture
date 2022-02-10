@@ -2,7 +2,7 @@
 Metrics are measurements commonly used for assessing, comparing, and tracking. 
 
 ## Measurement Methods
-Measurement Methods identify how data is to be collected to meet **Goals** and **Objectives**.
+Measurement Methods identify how data is to be collected to meet goals and objectives.
 
 |Objective Statements|Indicators|
 |--------------------|------|
