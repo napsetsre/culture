@@ -2,23 +2,33 @@
 Metrics are measurements commonly used for assessing, comparing, and tracking. 
 
 ## Measurement Methods
-Measurement Methods quatify how data is to be collected to meet **Goals** and **Objectives**.
+Measurement Methods identify how data is to be collected to meet **Goals** and **Objectives**.
 
 |Objective Statements|Indicators|
 |--------------------|------|
-|Goals||
-|Objectives||
-|Results| |
-|Outputs ||
-|Activities||
+|Goals|Goals are **ideas** about the future or desired state.|
+|Objectives|An objective is a **milestone** towards reaching the future or desired state.|
+|Results| A result is the **outcome** and **impact** produced by an objective.|
+|Outputs | An output is **summary** of an activity|
+|Activities|An activity is an **active step** towards reaching an objective.|
 
 ### Method Types
 
-#### [Qualitative Metrics](./qualitative/README.md)
-Qualitative metrics are those **subjective opinions** formed based on the information at hand.
+#### Qualitative Metrics (Why & How)
+Qualitative metrics are **subjective opinions** formed based on the current information.
 
-#### [Qantitative Metrics](./qualitative/README.md)
-Quantitative metrics are those **objective facts** which provde specific numbers based on the information at hand. 
+How To Capture
+* Conversations
+* Discovery
+* Pictures
+* Stories
+
+#### Qantitative Metrics (What)
+Quantitative metrics are those **objective facts** which provde specific numerical values. 
+
+How To Capture
+* Observations
+* 
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
