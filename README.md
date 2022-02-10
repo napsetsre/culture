@@ -9,7 +9,7 @@ Measurement Methods identify how data is to be collected to meet goals and objec
 |Goals|Goals are **ideas** about the future or desired state.|
 |Objectives|An objective is a **milestone** towards reaching the future or desired state.|
 |Results| A result is the **outcome** and **impact** produced by an objective.|
-|Outputs | An output is **summary** of an activity|
+|Outputs | An output is **summary** of an activity.|
 |Activities|An activity is an **active step** towards reaching an objective.|
 
 ### Method Types
@@ -17,7 +17,7 @@ Measurement Methods identify how data is to be collected to meet goals and objec
 #### Qualitative Metrics (Why & How)
 Qualitative metrics are subjective **opinions** formed based on the current information. 
 
-How To Measure
+##### How To Measure
 1. Define success
 1. Choose your method(s)
 - Conversations, Discovery, Workshops
@@ -28,9 +28,16 @@ How To Measure
 #### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
 
-How To Capture
-* Observations
-* 
+##### How To Measure
+1. Calculate the persona's [Health Score](#health-score)
+
+
+
+## Definitions
+
+### Health Score
+This metric gives you the overall information about the health of a given persona. It takes into account various behavioral aspects along with your pre-defined criteria for what you consider good or bad for a success scorecard.
+
 
 ## References
 [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
