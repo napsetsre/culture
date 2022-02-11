@@ -4,33 +4,39 @@ Metrics are measurements commonly used for assessing, comparing, and tracking.
 ## Measurement Methods
 Measurement Methods identify how data is to be collected to meet goals and objectives.
 
-|Objective Statements|Indicators|
-|--------------------|------|
-|Goals|Goals are **ideas** about the future or desired state.|
-|Objectives|An objective is a **milestone** towards reaching the future or desired state.|
-|Results| A result is the **outcome** and **impact** produced by an objective.|
-|Outputs | An output is **summary** of an activity.|
-|Activities|An activity is an **active step** towards reaching an objective.|
+### Objective Statements & Indicators
 
-### Method Types
+#### Goals
+Goals are **ideas** about the future or desired state.
 
-#### Qualitative Metrics (Why & How)
+#### Objectives
+An objective is a **milestone** towards reaching the future or desired state.
+
+#### Results
+A result is the **outcome** and **impact** produced by an objective.
+
+#### Outputs 
+An output is a **summary** of an activity.
+
+#### Activities
+An activity is an active **step** towards reaching an objective.
+
+## Method Types
+
+### Qualitative Metrics (Why & How)
 Qualitative metrics are subjective **opinions** formed based on the current information. 
 
-##### How To Measure
-1. Persona defined success
-2. Delivery team's method(s) of mesurement
-- Conversations, Discovery, Workshops
-- Pictures, Stories, Tools
-- Pairing, Mobing
-- Logs, Journals, Comments
-3. Persona [Feedback](#feedback)
-4. Persona [Satisfaction](#satisfaction)
+#### How To Measure
+1. Define success for each persona **Goal**
+2. Define success for each persona **Objective**
+3. Define success for each persona **Activity**
+4. Actively solicit persona [feedback](#feedback)
+5. Gage persona [satisfaction](#satisfaction)
 
-#### Qantitative Metrics (What)
+### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
 
-##### How To Measure By Persona
+#### How To Measure By Persona
 1. Persona [Health Score](#health-score)
 2. Persona [Churn Rate](#chrun-rate)
 3. Persona [Recurring Engagement](#recurring-engagement)
@@ -55,7 +61,7 @@ Lifetime Value is the total projected participation a persona will commit during
 This shows how much effort you are expending on a persona's success to keep them committed and engaged.
 
 ### Feedback
-This is the most common metric you would ever receive to measure the health of a persona.
+This is the most common metric you will receive to measure the health of a persona.
 
 ### Satisfaction
 This is another metric where you ask a persona to rate their experience with the transfermation. 
