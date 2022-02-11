@@ -27,11 +27,11 @@ An activity is an active **step** towards reaching an objective.
 Qualitative metrics are subjective **opinions** formed based on the current information. 
 
 #### How To Measure
-1. Define success for each persona [**Goal**](#goals)
-2. Define success for each persona [**Objective**](#objectives)
-3. Define success for each persona [**Activity**](#activites)
-4. Actively solicit persona [**Feedback**](#feedback)
-5. Gage persona [**Satisfaction**](#satisfaction)
+1. Define success for each persona [Goal](#goals)
+2. Define success for each persona [Objective](#objectives)
+3. Define success for each persona [**Activity](#activites)
+4. Actively solicit persona [Feedback](#feedback)
+5. Gage persona [Satisfaction](#satisfaction)
 
 ### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
@@ -62,7 +62,7 @@ This shows how much effort you are expending on a persona's success to keep them
 
 ### Feedback
 This is the most common metric you will receive to measure the health of a persona.
-
+  
 ### Satisfaction
 This is another metric where you ask a persona to rate their experience with the transfermation. 
 
