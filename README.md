@@ -27,11 +27,11 @@ An activity is an active **step** towards reaching an objective.
 Qualitative metrics are subjective **opinions** formed based on the current information. 
 
 #### How To Measure
-1. Define success for each persona [Goal](#goals)
-2. Define success for each persona [Objective](#objectives)
-3. Define success for each persona [**Activity](#activites)
-4. Actively solicit persona [Feedback](#feedback)
-5. Gage persona [Satisfaction](#satisfaction)
+1. Define success for each of the persona [Goals](#goals)
+2. Define success for each of the persona [Objectives](#objectives)
+3. Define success for each of the persona [Activity](#activites)
+4. Actively solicit [Feedback](#feedback) from each persona
+5. Iteratively gage the [Satisfaction](#satisfaction) for each persona
 
 ### Qantitative Metrics (What)
 Quantitative metrics are those **objective facts** which provde specific numerical values. 
@@ -67,6 +67,6 @@ This is the most common metric you will receive to measure the health of a perso
 This is another metric where you ask a persona to rate their experience with the transfermation. 
 
 ## References
-[MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
-[Practical tools for international development](https://tools4dev.org/resources/5-ways-to-measure-qualitative-results/)
-[Customer Success Metrics](https://www.smartkarrot.com/resources/blog/customer-success-metrics/)
+* [MEASUREMENT METHODS](https://mealdprostarter.org/measurement-methods/)
+* [Practical tools for international development](https://tools4dev.org/resources/5-ways-to-measure-qualitative-results/)
+* [Customer Success Metrics](https://www.smartkarrot.com/resources/blog/customer-success-metrics/)
