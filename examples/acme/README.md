@@ -23,7 +23,7 @@ The **Red Hat Site Reliability Practice** aligned with the **ACME Operations Tea
 | Objective                                                                    | Activity                          | Result  | Output |
 |  --------------------------------------------------------------------------- | --------------------------------- | ------- | ------ | 
 | As an operator, I need to **stop context switching**                         | Assign each person to a single team |  | |
-| As an operator, I need time to **improve my skill set**                      | Allocate unused sprint capacity to improving technical skills | | |
+| As an operator, I need time to **improve my skill set**                      | Allocate unused capacity to improving skills | | |
 | As an executive, I need to **developer adoption rates**                      | Provide summary report(s) to executives  | | |
 | As an operator, I need to **maintain consistent process**                    | Create automation for predictable outputs | | |
 | As an operator, I need to **reduce the number of emails**                    | Embrace light weight communication tools | | |
@@ -31,8 +31,9 @@ The **Red Hat Site Reliability Practice** aligned with the **ACME Operations Tea
 
 ### Improve Product Quality Objectives
 
-| Objective                                                                                | Activity                          | Result  | Output |
+| Objective                                                            | Activity                          | Result  | Output |
 | -------------------------------------------------------------------- | --------------------------------- | ------- | ------ | 
-| As an operator, I need **quality** to be requirement | | |
-| As an operator, I need **stories** to be correctly prioritized | | | 
-| As an operator, I need **feedback** from developers and executives | | |
+| As an operator, I need **quality** to be requirement                 | Make quality a first class citizen as part of the acceptance criteria | |
+| As an operator, I need **stories** to be correctly prioritized       | Product owner and scrum master will triage priority levels | | 
+| As an operator, I need **feedback** from developers and executives   | Encourage developers to contribute bug reports, feature enhancements, and peer reviews | |
+| As an operator, I need to **remain** current with latest technology  | Use product owner approved level up time to remain current | |
