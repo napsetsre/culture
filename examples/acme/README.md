@@ -1,11 +1,13 @@
 # ACME Metrics Report
 
-## Project Goal
+## Goals
+
+### Project Goal
 
 **Red Hat Site Reliability Practice** partnered with the **ACME Operations Team** will empower **Developers**, 
 **Executives**, and **Operators** to embrace holistic site reliability principles.
 
-## Persona Goals
+### Persona Goals
 
 | Persona    | Goals | Description |
 |------------|-------|-------------|
