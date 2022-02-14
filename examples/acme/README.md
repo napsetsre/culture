@@ -22,8 +22,8 @@ The **Red Hat Site Reliability Practice** aligned with the **ACME Operations Tea
 
 ##### Improve Efficiency
 
-| Objective | Description                                              | Activity  |
-| --------- | -------------------------------------------------------- | --------------------------------- |
-| O1        | Too much context switching between teams.                | Assign operators to a single team.|
+| Objective                                                | Activities                        | Results |
+| -------------------------------------------------------- | --------------------------------- | |
+| Reduce the amount of context switching between teams.    | Assign operators to a single team.| |
 
 
