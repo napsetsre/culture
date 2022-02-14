@@ -22,8 +22,10 @@ The **Red Hat Site Reliability Practice** aligned with the **ACME Operations Tea
 
 ##### Improve Efficiency
 
-| Objective                                                | Activities                        | Results |
-| -------------------------------------------------------- | --------------------------------- | |
-| Reduce the amount of context switching between teams.    | Assign operators to a single team.| |
+|Persona    | Objective                   | Activity                          | Result |
+| --------- | --------------------------- | --------------------------------- | ------- |
+| Operator  | Reduce context switching    | Assign operators to a single team |         |
+| Operator  | Time to level up            | Product owner agreed to give operators 20% time to improve technical skills. | |
+| Executive | Technology adoption rates   | Provide summary report(s)  | |
 
 
