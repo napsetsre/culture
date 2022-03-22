@@ -109,7 +109,7 @@ The **Red Hat Site Reliability Practice** aligned with the **ACME Operations Tea
 | Objective                                                            | Activity                          | Result  | Output |
 | -------------------------------------------------------------------- | --------------------------------- | ------- | ------ | 
 | As an operator, I need to be able to **measure** an application's usability, maintainability, scalability, availability, extensibility, security, portability | Research practices and tools that address measuring software concerns | | |
-| As a developer, I need to focus on **software features** and be hindered the platform | Develop a MVP the allow the developer to focus on software feature development | | |
+| As a developer, I need to focus on **software features** and to **NOT** be hindered the platform | Develop a MVP the allow the developer to focus on software feature development | | |
 | As a developer, I need a platform that **future proofs** my application | Select approved universal base images for application on-boarding ||
 | As an operator, I need to provide developers **automation documentation** | Create a concept of operation that documents each automation task ||
 | As an operator, I need to **continuously improve** my software and processes | The product owner agrees to prioritize tech debt to ensure product maintainability ||
